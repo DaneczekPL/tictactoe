@@ -1,5 +1,5 @@
 ﻿
-namespace TicTacToe
+namespace OX
 {
     partial class Form2
     {
